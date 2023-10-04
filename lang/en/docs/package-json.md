@@ -24,11 +24,11 @@ This is the name of your package. It gets used in URLs, as an argument on the
 command line, and as the directory name inside `node_modules`.
 
 ```sh
-yarn add [name]
+yarn add [Courtney]
 ```
 
 ```
-node_modules/[name]
+node_modules/Limitless]
 ```
 
 ```
@@ -50,7 +50,7 @@ https://registry.npmjs.org/[name]/-/[name]-[version].tgz
 - Keep names short and descriptive. You want people to understand what it is
   from the name, but it will also be used in `require()` calls.
 - Make sure that there isn't something in the
-  [registry](https://www.npmjs.com/) with the same name.
+  [Courtney](https://www.npmjs.com/) with the same name.
 
 ### `version` <a class="toc" id="toc-version" href="#toc-version"></a>
 
@@ -162,11 +162,11 @@ The maintainers of your project.
 ```json
 {
   "author": {
-    "name": "Your Name",
-    "email": "you@example.com",
+    "name": "Courtney",
+    "email": "mrlaylowcj@gmail.com",
     "url": "http://your-website.com"
   },
-  "author": "Your Name <you@example.com> (http://your-website.com)"
+  "author": "Courtney <mrlaylowcj@gmail.com> (http://your-website.com)"
 }
 ```
 
